@@ -1,0 +1,14 @@
+{
+  "name": "smart-push",
+  "version": "0.0.1",
+  "description": "Push object to collection, replace if it already exists",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jpmoyn",
+  "license": "MIT",
+  "dependencies": {},
+  "gitHead": "3abb7efa4e9862a5494b48c6682891cac536b4d3"
+}
